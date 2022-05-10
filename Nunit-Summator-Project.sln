@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summator", "Summator\Summator.csproj", "{70F2FE70-1585-42B9-9DC1-C4B85F759AD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summator-Tests", "Summator-Tests\Summator-Tests.csproj", "{3C795C9E-D3E9-43B1-B1E7-C50426DFD8F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70F2FE70-1585-42B9-9DC1-C4B85F759AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F2FE70-1585-42B9-9DC1-C4B85F759AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F2FE70-1585-42B9-9DC1-C4B85F759AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F2FE70-1585-42B9-9DC1-C4B85F759AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C795C9E-D3E9-43B1-B1E7-C50426DFD8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C795C9E-D3E9-43B1-B1E7-C50426DFD8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C795C9E-D3E9-43B1-B1E7-C50426DFD8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C795C9E-D3E9-43B1-B1E7-C50426DFD8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1797A3A-44B1-430B-B2FF-A665F8C6D8C7}
+	EndGlobalSection
+EndGlobal
